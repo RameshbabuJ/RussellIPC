@@ -10,6 +10,7 @@ namespace RussellIPC
     {
         static void Main(string[] args)
         {
+            Console.Write("Master file changes");
         }
     }
 }
